@@ -1,6 +1,5 @@
-
-
-import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Signup from './Signup'
 
 function App() {
 
@@ -8,7 +7,7 @@ function App() {
   return (
     <>
      
-      
+      <Signup/>
     </>
   )
 }
