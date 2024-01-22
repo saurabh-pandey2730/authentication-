@@ -27,6 +27,7 @@ function Signup() {
             <input type="password" placeholder='Enter password'  name='password' className='form-control rounded-0' />
          </div>
         <button type='submit' className='btn btn-success w-100 rouonded-0  '>Register</button>
+        <p>Already have an Account ?</p>
         <button  className='btn btn-default border w-100 bg-light rouonded-0 text-decoration-none '>Login</button>
           </form>
 
